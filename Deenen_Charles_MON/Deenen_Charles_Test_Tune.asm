@@ -3,7 +3,7 @@
 ;	By Charles Deenen
 
 
-	!to "Deenen_Charles_Test_Tune.sid",plain
+	!to "Deenen_Charles_Test_Tune2.sid",plain
 
 	* = $0000
 
