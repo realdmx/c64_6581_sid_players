@@ -1,10 +1,10 @@
-# C64_SID_Players
+# C64_6581_SID_Players
 
 ## Original and reverse-engineered music players for the C64.
 
 The SID 6581 (8580) is a mysterious beast.
 
-Back in the olden days, every musician wanting to make it big had no choice but to program their own music routine / player.
+In the olden days, every budding musician wanting to make it in the business had no other choice but to program their own music player.
 
 The widely varying understanding of 6510 CPU and the 6581 soundchip, in combination with the artistic mind of the author, would yield a synergy of sound and style.
 
